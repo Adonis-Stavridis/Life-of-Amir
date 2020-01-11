@@ -1,2 +1,7 @@
 # Life of Amir
- An RPG Game built in Unity
+
+----
+
+An RPG Game built in Unity
+
+----
